@@ -11,7 +11,7 @@ public class Driver {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("matt i cool");
+		System.out.println("matt is cool");
 	}
 
 }
